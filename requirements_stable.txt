@@ -1,0 +1,9 @@
+python-telegram-bot==21.6
+yfinance
+pandas
+numpy
+requests
+feedparser
+beautifulsoup4
+lxml
+html5lib
